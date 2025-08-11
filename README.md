@@ -5,7 +5,7 @@
 
 ---
 
-With 15+ years of hands-on experience in leading IT technologies, I specialize in delivering robust solutions and managing teams to achieve exceptional results. My expertise spans software development, project management, and client relations, ensuring seamless project execution from concept to delivery.
+With 2 decades of hands-on experience in leading IT technologies, I specialize in delivering robust solutions and managing teams to achieve exceptional results. My expertise spans software development, project management, and client relations, ensuring seamless project execution from concept to delivery. Additionally, I maintain a portfolio of 50+ private, project-specific repositories across various technologies, reflecting a broad and practical command of modern development tools and frameworks.
 
 ## 🚀 Top Skills & Technologies
 
