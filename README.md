@@ -1,7 +1,8 @@
+
 # Hi, I'm Viral D. Makwana 👋
 
 **Senior Developer | Project & Team Manager | Client Liaison**  
-[LinkedIn](https://www.linkedin.com/in/viral-d-makwana/)
+[LinkedIn](https://www.linkedin.com/in/viral-d-makwana/)  |  [Instagram](https://www.instagram.com/viral.w3nuts/)
 
 ---
 
