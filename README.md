@@ -37,6 +37,17 @@ With 2 decades of hands-on experience in leading IT technologies, I specialize i
 - Drive client success through proactive communication
 - Mentor and empower developers to grow their skills
 
+## 📚 Some of My GitHub Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [viral-w3nuts/viral-w3nuts](https://github.com/viral-w3nuts/viral-w3nuts) | My GitHub profile repository highlighting my skills, journey, and expertise. |
+| [csv_explorer](https://github.com/viral-w3nuts/csv_explorer) | Massive CSV data filtering & analytics tool (Shopify-focused), powered by Streamlit & DuckDB. Features include GUI filters, column visibility, analytics, export functions, and support for millions of rows interactively. |
+| [instagram_follower_following_scraper](https://github.com/viral-w3nuts/instagram_follower_following_scraper) | Automated Python tool for scraping Instagram follower/following stats from lists of profile URLs in CSVs. Offers resumable scraping, error handling, admin-configurable variables, and robust logging for research and marketing teams. |
+| [remove_video_bg](https://github.com/viral-w3nuts/remove_video_bg) | Python utility to remove pure white backgrounds from videos, preserving character and audio, and exporting with transparent backgrounds. Includes OpenCV, NumPy, and FFmpeg integration, troubleshooting, and tips for professional video workflows. |
+| [instagram_bulk_follow](https://github.com/viral-w3nuts/instagram_bulk_follow) | Complete automation bot for bulk-following Instagram users from CSVs, using Python & Selenium. Supports multi-account login, 2FA, pop-up handling, resume functionality, error and activity logs, server deployment, and robust configuration options. |
+| [shopify_scraper](https://github.com/viral-w3nuts/shopify_scraper) | A Python-based scraper for Shopify data. (Details currently minimal in README) |
+
 ## 📫 Get in Touch
 
 - LinkedIn: [viral-d-makwana](https://www.linkedin.com/in/viral-d-makwana/)
